@@ -26,8 +26,8 @@ Countermeasure, control, or mitigation - something that removes or reduces a vul
 
 *Sometimes included:*
 
- Authentication
+ **Authentication**
   - Ability to confirm identities
 
-Nonrepudiation (accountability)
+**Nonrepudiation** (accountability)
  - Ability to confirm that sender cannot deny having sent Something
