@@ -24,7 +24,7 @@ Countermeasure, control, or mitigation - something that removes or reduces a vul
 **Availability**
  - Ability of a system to ensure an asset can be used by authorized parties
 
-*Sometimes included:*
+***Sometimes included:***
 
  **Authentication**
   - Ability to confirm identities
