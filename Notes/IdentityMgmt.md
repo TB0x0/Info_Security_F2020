@@ -50,9 +50,9 @@ Passwords: static passwords or passphrases, one-time passwords, dynamic password
 
 ### Something you are
 
-**Biometrics**
+**Biometrics**<br>
 *Physiological*
-- Face, fingerprint, hand, iris, DNA
+- Face, fingerprint, hand, iris, DNA<br>
 *Behavioral*
 - Keystroke, signature, voice
 
