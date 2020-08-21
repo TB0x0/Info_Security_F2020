@@ -28,8 +28,11 @@ Authentication information must be prepared in advance and stored somewhere like
 ## Authentication
 
 *Something you know*
+
 *Something you have*
+
 *Something you are*
+
 *Something you do*
 
 ### Something you know
