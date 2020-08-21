@@ -27,9 +27,9 @@ Authentication information must be prepared in advance and stored somewhere like
 
 ## Authentication
 
->Something you know\n
-Something you have\n
-Something you are\n
+>Something you know<br>
+Something you have<br>
+Something you are<br>
 Something you do
 
 ### Something you know
