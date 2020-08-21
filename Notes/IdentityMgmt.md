@@ -14,7 +14,7 @@ Authentication information must be prepared in advance and stored somewhere like
  - Performed by trusted 3rd parties or in-house
  - Might establish and/or rely on 'seminal' documents (original documents like registrations, certificates)
 
- **The Reference Monitor**
+ **The Reference Monitor**  
   Enforces access control rules and manages the process
   - **Isolation** - Must be isolated (tamper-proof)
   - **Completeness** - Must be impossible to bypass and invoked for every decision
