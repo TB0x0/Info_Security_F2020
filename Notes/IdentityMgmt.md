@@ -36,3 +36,25 @@ Authentication information must be prepared in advance and stored somewhere like
 
 Passwords: static passwords or passphrases, one-time passwords, dynamic passwords
  (video is corrupted here)
+
+### Something you have
+
+**Synchronous token**
+ - Synchronized with a central server
+ - Values change over time or by counter
+ - Examples: SecureID, GoogleAuth
+
+**Asynchronous token**
+ - Stand alone token-smart card (Common Access Card)
+ - Requires PIN
+
+### Something you are
+
+**Biometrics**
+*Physiological*
+- Face, fingerprint, hand, iris, DNA
+*Behavioral*
+- Keystroke, signature, voice
+
+**Accuracy of Biometrics**
+<img src="BiometricAccuracy.png" alt="Graph of error rates" width="500" height="500">
