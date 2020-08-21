@@ -57,5 +57,8 @@ Passwords: static passwords or passphrases, one-time passwords, dynamic password
 - Keystroke, signature, voice
 
 **Accuracy of Biometrics**
+- False Reject Rate (FRR) - type 1 errors
+- False Accept Rate (FAR) - type 2 errors
+- Crossover Error Rate (CER)
 
 ![Biometric Error Rate](/res/BiometricAccuracy.png)
