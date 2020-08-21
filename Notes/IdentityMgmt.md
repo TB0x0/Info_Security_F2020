@@ -15,7 +15,7 @@ Authentication information must be prepared in advance and stored somewhere like
  - Might establish and/or rely on 'seminal' documents (original documents like registrations, certificates)
 
  **The Reference Monitor**
-  - Enforces access control rules and manages the process
+  Enforces access control rules and manages the process
   - **Isolation** - Must be isolated (tamper-proof)
   - **Completeness** - Must be impossible to bypass and invoked for every decision
   - **Verifiability** - Must be thoroughly tested
@@ -25,9 +25,14 @@ Authentication information must be prepared in advance and stored somewhere like
 
    - May not help against DOS, availability attacks, or trojans that leverage user permissions.
 
-#### Authentication
+## Authentication
 
-- *Something you know*
-- *Something you have*
-- *Something you are*
-- *Something you do*
+*Something you know*
+*Something you have*
+*Something you are*
+*Something you do*
+
+### Something you know
+
+Passwords: static passwords or passphrases, one-time passwords, dynamic passwords
+ (video is corrupted here)
