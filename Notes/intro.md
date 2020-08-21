@@ -1,34 +1,33 @@
 # Introduction
 
-### Basic Terms
+## Basic Terms
 
-- Vulnerability:
+**Vulnerability:**
  - Weakness in a system (lack of identity verification)
 
-- Threat
+**Threat**
  - Circumstance that has potential to cause loss or harm
 
-- Attack
+**Attack**
  - Exploitation of a Vulnerability by human or system
 
-- Countermeasure, control, or mitigation
- - Something that removes or reduces Vulnerability
+Countermeasure, control, or mitigation - something that removes or reduces a vulnerability
 
-### C-I-A Triad
+## C-I-A Triad
 
-- Confidentiality
+**Confidentiality**
  - Ability of a system to ensure an asset is only viewed by authorized parties
 
-- Integrity
+**Integrity**
  - Ability of a system to ensure that asset is only modified by authorized parties
 
-- Availability
+**Availability**
  - Ability of a system to ensure an asset can be used by authorized parties
 
- *Sometimes included:*
+*Sometimes included:*
 
- - Authentication
+ Authentication
   - Ability to confirm identities
 
-- Nonrepudiation (accountability)
+Nonrepudiation (accountability)
  - Ability to confirm that sender cannot deny having sent Something
