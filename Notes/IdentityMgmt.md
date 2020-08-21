@@ -57,4 +57,5 @@ Passwords: static passwords or passphrases, one-time passwords, dynamic password
 - Keystroke, signature, voice
 
 **Accuracy of Biometrics**
+
 ![Biometric Error Rate](/res/BiometricAccuracy.png)
