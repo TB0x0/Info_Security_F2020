@@ -1,10 +1,9 @@
 # Identity Management and Access control
 
-### Access Control
 
 The 3 A's authentication, authorization, accountability should also include identification
 
-#### Identification
+## Identification
 
 We need some way to identify users. Most common on the internet is a user ID. To identify a subject just ask for user ID. After that is received the authentication process verifies the identification of the subject.
 
