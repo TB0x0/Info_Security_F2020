@@ -35,7 +35,22 @@ Something you do
 ### Something you know
 
 Passwords: static passwords or passphrases, one-time passwords, dynamic passwords
- (video is corrupted here)
+
+ **Password Control**
+
+ - Don't write down passwords and put them on monitors
+ - Don't use patterns or predictable words
+
+ *NIST Guidance:*
+
+ NIST SP 800-63-3 June 2017:
+
+ - 8 character minimum, 64 maximum
+ - disallow common passwords
+ - allow all printing characters and spaces
+
+ *Update*
+ - Should offer to display secret and re-hide after a period. Improves accuracy and UX.
 
 ### Something you have
 
@@ -59,8 +74,18 @@ Passwords: static passwords or passphrases, one-time passwords, dynamic password
 - Keystroke, signature, voice
 
 **Accuracy of Biometrics**
-- False Reject Rate (FRR) - type 1 errors
-- False Accept Rate (FAR) - type 2 errors
-- Crossover Error Rate (CER)
+- False Reject Rate (FRR) - Actual user gets rejected (You have to redo fingerprint because it didn't work the first time)
+- False Accept Rate (FAR) - A non-authorized user gets access to the system
+- Crossover Error Rate (CER) - Balanced area for optimal security and best user interaction.
 
 ![Biometric Error Rate](/res/BiometricAccuracy.png)
+
+
+
+## Authentication Helpers
+
+Added measures and tools that help with authentication
+
+- Google Authenticator, DUO
+- Voice printing
+- Location (zip, gps)
