@@ -12,3 +12,4 @@ If there's a typo or something and you don't feel like messing with it you can m
 - [Introduction](Notes/intro.md)
 - [Identity Management and Access Control](/Notes/IdentityMgmt.md)
 - [Access Control Technologies](/Notes/accessctrltech.md)
+- [Risk Management](/Notes/riskmgmt.md)
