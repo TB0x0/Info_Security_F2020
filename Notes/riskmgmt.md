@@ -13,4 +13,4 @@ Identifying, assessing and reducing risk to an acceptable level.
 
 Risk can be identified and reduced, but never eliminated
 
-<img align=right src="/res/rmgmt1.png">
+<img align="right" src="/res/rmgmt1.png">
