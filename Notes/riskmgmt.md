@@ -32,3 +32,10 @@ Identifying, assessing and reducing risk to an acceptable level.
 
   - Emergency Response Teams
   - Correcting vulnerabilities
+
+
+## The McCumber Cube
+
+A 3d cube for managing information systems
+
+<img src="/res/mccumber.png">
