@@ -1,6 +1,5 @@
 # Risk Management: Identifying Threats
 
-
 **There are known knowns.** Things we know we know
 
 **There are known unknowns.** Things we know we don't know
@@ -12,7 +11,7 @@
 Identifying, assessing and reducing risk to an acceptable level using concepts such as risk assessment and risk mitigation.
 
 
-## IA Processes
+## IA Processes (PDC)
 
 **Protection**
 
@@ -41,7 +40,7 @@ A 3d cube for managing information systems
 
 Used to consider employed measures to ensure information characteristics (CIA) across various states.
 
-Measures are typically refered to as People, Processes, and Technology (PPT)
+Measures are typically referred to as People, Processes, and Technology (PPT)
 
 ## Risk Assessment and Analysis
 
@@ -65,6 +64,11 @@ Measures are typically refered to as People, Processes, and Technology (PPT)
 ## Security Concepts and Relationships
 
 <img src="/res/concepts.png">
+
+
+## Risk Management Framework
+
+<img src="/res/riskmgmtfwk.png">
 
 
 ## Asset Identification
