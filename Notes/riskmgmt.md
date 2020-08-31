@@ -9,9 +9,7 @@
 
 ## Risk Management
 
-Identifying, assessing and reducing risk to an acceptable level.
-
-<img align="right" src="/res/rmgmt1.png">
+Identifying, assessing and reducing risk to an acceptable level using concepts such as risk assessment and risk mitigation.
 
 
 ## IA Processes
