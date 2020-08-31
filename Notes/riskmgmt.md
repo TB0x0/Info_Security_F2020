@@ -37,3 +37,26 @@ Identifying, assessing and reducing risk to an acceptable level using concepts s
 A 3d cube for managing information systems
 
 <img src="/res/mccumber.png">
+
+
+Used to consider employed measures to ensure information characteristics (CIA) across various states.
+
+Measures are typically refered to as People, Processes, and Technology (PPT)
+
+## Risk Assessment and Analysis
+
+### Assessment
+
+- Quantitative
+- Qualitative
+- Semi-Quantitative
+
+### Analysis
+
+- Threat-Oriented
+- Asset/Impact-Oriented
+- Vulnerability-Oriented
+
+## Risk Management Equation
+
+<img src="https://latex.codecogs.com/gif.latex?Risk=\frac{Threats*Vulnerabilities}{Countermeasures}*Impact" />
