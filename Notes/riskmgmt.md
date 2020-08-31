@@ -60,3 +60,11 @@ Measures are typically refered to as People, Processes, and Technology (PPT)
 ## Risk Management Equation
 
 <img src="https://latex.codecogs.com/gif.latex?Risk=\frac{Threats*Vulnerabilities}{Countermeasures}*Impact" />
+
+
+## Security Concepts and Relationships
+
+<img src="/res/concepts.png">
+
+
+## Asset Identification
