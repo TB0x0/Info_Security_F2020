@@ -8,3 +8,22 @@ Systems so vital that their incapacity or destruction would have a debilitating 
 - Food and Agriculture
 - Transportation
 - Information Technology
+
+##Government Critical Infrastructures
+
+- National Security
+  - Electric Grid
+  - Financial
+  - Nuclear / Biological
+
+- National Economy
+  - Financial
+  - Communications
+  - Transportation
+
+## Business Critical Infrastructures
+
+- Business Operations
+- Financial
+- Supply Chain
+- Business Reputation
