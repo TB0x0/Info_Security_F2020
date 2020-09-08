@@ -48,7 +48,7 @@ Systems so vital that their incapacity or destruction would have a debilitating 
 - Cyber-Physical Threats
   - Combination of threats that build on each other or increase susceptibility to other threats
 
-##Critical Vulnerabilities
+##Critical Vulnerabilities in Infrastructure
 
 - Infrastructure is decades old with no modernization in sight
 - Interconnectedness leads to increased and unintended vulnerability
