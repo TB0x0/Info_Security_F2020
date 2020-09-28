@@ -1,6 +1,10 @@
 # Access Control Technologies
 
-*Access control is a process*
+Access control prevents unauthorized users from viewing, changing, or controlling an object. It depends on other processes such as:
+
+- Identity establishment
+- Authentication process
+- Privilege granting, verification, and revocation
 
 ## Strong Authentication
 

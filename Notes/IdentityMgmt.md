@@ -89,3 +89,23 @@ Added measures and tools that help with authentication
 - Google Authenticator, DUO
 - Voice printing
 - Location (zip, gps)
+
+## Decentralized Access Control
+
+- Local sites maintain independent systems to provide more local control over data
+
+**Access aggregation** - occurs when a user gains more access to more systems
+
+**Authorization creep** - Users gain more entitlement without shedding the old ones ( defeats least privilege and separation of duties )
+
+## Authorization Models
+
+- Discretionary Access Control - Owners have full control of assets and can share them as they like
+
+- Mandatory Access Control - Subjects have clearance, objects have labels
+
+- Non-Discretionary Access Control -
+
+  - Role-Based Access Control - Subjects have roles and permissions are assigned to roles
+
+  - Task-based Access Control - Focus on tasks subjects must perform
